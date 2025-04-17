@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.suryatejaduggi.weather.WeatherApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-17T16:40:05.164Z" hostname="Suryas-MacBook-Pro.local" time="0.511">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.suryatejaduggi.weather.WeatherApplicationTests" time="0.511"/>
+  <system-out><![CDATA[09:40:04.171 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.suryatejaduggi.weather.WeatherApplicationTests]: WeatherApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+09:40:04.246 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.suryatejaduggi.weather.WeatherApplication for test class com.suryatejaduggi.weather.WeatherApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.4)
+
+2025-04-17T09:40:04.503-07:00  INFO 34569 --- [weather] [    Test worker] c.s.weather.WeatherApplicationTests      : Starting WeatherApplicationTests using Java 17.0.12 with PID 34569 (started by suryaduggi in /Users/suryaduggi/Downloads/apple-weather)
+2025-04-17T09:40:04.504-07:00  INFO 34569 --- [weather] [    Test worker] c.s.weather.WeatherApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2025-04-17T09:40:05.011-07:00  INFO 34569 --- [weather] [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2025-04-17T09:40:05.156-07:00  INFO 34569 --- [weather] [    Test worker] c.s.weather.WeatherApplicationTests      : Started WeatherApplicationTests in 0.825 seconds (process running for 1.527)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
